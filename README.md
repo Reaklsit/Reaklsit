@@ -10,6 +10,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Npm](https://img.shields.io/badge/-Npm-090909?style=for-the-badge&logo=Npm)
+![yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn)
 ## Follow me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/reaklist)
