@@ -1,6 +1,6 @@
 ### Hi Hello my name is Timofey Popov
 
-## about me: I am a beginner front-end developer, here you can see my portfolio and its code. I live in the city of Breda in the north of the Netherlands. I want to try myself in commercial development
+### about me: ##I am a beginner front-end developer, here you can see my portfolio and its code. I live in the city of Breda in the north of the Netherlands. I want to try myself in commercial development
 ## Languages and tools: 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![СSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
