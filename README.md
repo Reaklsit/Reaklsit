@@ -21,7 +21,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reaklsit&show_icons=true&theme=dark)](https://github.com/Reaklsit)
 
 ## Codewars: 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username) 
+[![codewars](https://www.codewars.com/users/Reaklist/badges/large)](https://www.codewars.com/users/Reaklist) 
 
 
 
