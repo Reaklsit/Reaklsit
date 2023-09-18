@@ -17,7 +17,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100082093781615)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/timoxa.303/)
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Reaklist}&theme={https://www.codewars.com/users/Reaklist}
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Reaklist=anuraghazra&show_icons=true&theme=radical)
 
 
 
