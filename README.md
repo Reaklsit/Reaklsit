@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ## Follow me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=007006)](www.linkedin.com/in/тymofii-popov-reaklist)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/reaklist)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](halatik2019@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](https://wa.me/+31638924940)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100082093781615)
