@@ -17,7 +17,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100082093781615)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/timoxa.303/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Reaklist=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://www.codewars.com/users/Reaklist=anuraghazra&show_icons=true&theme=radical)
 
 
 
