@@ -1,4 +1,4 @@
-### Hello dear visitor
+### Hello Вear Visitor my hub profile
 
 # About Me: 
 ### I am a beginner front-end developer, here you can see my portfolio and its code. I live in the city of Breda in the north of the Netherlands. I want to try myself in commercial development
